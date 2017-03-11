@@ -1,0 +1,68 @@
+/* this is the styles for the body */
+
+body {
+  background-color: #b19cd9;
+  color: #fdfd96;
+  text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+
+.smalltext{
+  font-size:10px;
+  display:inline-block;
+}
+
+#contactform{
+  color:#fdfd96;
+}
+
+#getter {
+  width: 100%;
+  height: 50%;
+  background-color: #966fd6;
+  color: #fdfd96;
+  border-color: #fdfd96;
+  border-right:none;
+  border-left:none;
+  border-bottom:none;
+  outline:none;
+}
+#req{
+   background-color: #966fd6;
+  border: solid;
+  border-color: #fdfd96;
+  height: 80px;
+  width: 600px;
+  margin: auto;
+  padding-bottom:15px;
+  border-top:none;
+  border-bottom-right-radius:45px;
+  border-bottom-left-radius:45px;
+}
+#wrapper {
+  background-color: #966fd6;
+  border: solid;
+  border-color: #fdfd96;
+  height: 80px;
+  width: 600px;
+  margin: auto;
+  border-top-right-radius: 45px;
+  border-top-left-radius: 45px;
+  padding-bottom:15px;
+  
+}
+
+#demo {
+  background-color: #966fd6;
+  border: solid;
+  border-color: #fdfd96;
+  height: 80px;
+  width: 600px;
+  margin: auto;
+  vertical-align: center;
+  border-top:none;
+  padding-top:15px;
+  
+}
+
